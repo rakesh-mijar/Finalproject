@@ -1,0 +1,28 @@
+
+
+h1{
+    text-align: -webkit-center;
+    background-color: #085999;
+    margin-top: 0;
+    padding:20px;
+    color:white;
+}
+
+.register{
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding :20px;
+}
+
+.reg{
+    background-color:  #063358;
+    border-radius: 10px;
+    border:2px solid white;
+    padding:15px;
+
+}
+.sam{
+    display: inline;
+}
